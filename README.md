@@ -1,3 +1,7 @@
+
+ ![Crypto Market Analysis Banner](crypto_banner.png)
+
+ 
  Crypto Market Data Analysis
 
 #  Objectif
