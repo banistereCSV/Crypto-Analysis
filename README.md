@@ -1,8 +1,6 @@
 
 ![Crypto Market Analysis Banner](crypto_banner.png.png)
 
- 
- Crypto Market Data Analysis
 
 #  Objectif
 Analyser les tendances du marché des cryptomonnaies (Top 200) afin de comprendre :
